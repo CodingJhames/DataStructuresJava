@@ -1,0 +1,56 @@
+# Compilación de archivos de clase
+*.class
+
+# Archivos de salida de directorios
+bin/
+out/
+
+# Archivos de configuración de IDE
+# Eclipse
+.project
+.classpath
+.settings/
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+# VS Code
+.vscode/
+
+# Archivos de log
+*.log
+
+# Archivos de paquetes
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración de Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Archivos de configuración de Gradle
+.gradle/
+build/
+
+# Archivos de configuración de distribución
+dist/
+gen/
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de compilación
+build/
